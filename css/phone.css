@@ -1,0 +1,8 @@
+.content {
+    text-align: center; /* 水平居中文字 */
+}
+.content h2{
+    font-size: 30px;
+    padding: 20px;
+    
+}
